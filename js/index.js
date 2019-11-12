@@ -8,3 +8,5 @@ let person = {
   name: 'Bob',
   greet: greet 
 };
+
+person.greet();
